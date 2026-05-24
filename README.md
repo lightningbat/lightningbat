@@ -69,9 +69,9 @@ A horizontally scalable URL shortener designed for low-latency redirection and h
 **Stack**
 Go · Redis · k6
 
-### [Distributed Rate Limiter](https://github.com/lightningbat/distributed-rate-limiter)
+### [Resilient Rate Limiter](https://github.com/lightningbat/resilient-rate-limiter)
 
-A distributed Node.js rate-limiting package backed by Redis, featuring configurable fallback mechanisms for high-availability environments.
+A Redis-backed Express rate-limiting middleware written in TypeScript with automatic degraded-mode fallback handling for high-availability environments.
 
 **Key Highlights**
 - Synchronizes rate limits across distributed instances using atomic Redis operations
