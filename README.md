@@ -57,7 +57,7 @@
 
 ## Featured Work
 
-### [Distributed Rate Limiter](https://github.com/lightningbat/distributed-url-shortener)
+### [Distributed URL Shortener](https://github.com/lightningbat/distributed-url-shortener)
 A horizontally scalable URL shortener designed for low-latency redirection and high-throughput concurrency.
 
 **Key Highlights**
