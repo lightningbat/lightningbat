@@ -58,13 +58,12 @@
 ## Featured Work
 
 ### [Distributed URL Shortener](https://github.com/lightningbat/distributed-url-shortener)
-A horizontally scalable URL shortener designed for low-latency redirection and high-throughput concurrency.
+A horizontally scalable URL shortener designed for low-latency redirection.
 
 **Key Highlights**
 - Sustained peak throughput of 11,600 RPS on a single AWS t3.micro instance with zero socket errors
+- Decoupled ID generation into an independent service that asynchronously pre-populates Redis.
 - Dual-layer L1 (in-memory) + L2 (Redis) caching architecture
-- Immutable URL design removes cache invalidation complexity entirely
-- Distributed block-based ID reservation using Redis INCR
 
 **Stack**
 Go · Redis · k6
