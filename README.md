@@ -13,9 +13,9 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/lightningbat/DevIcons/refs/heads/main/badges/badges_golang.png" width="50px" title="Golang">
 <img src="https://raw.githubusercontent.com/lightningbat/DevIcons/refs/heads/add-missing-icons/badges/badges_nodejs.png" width="50px" title="Node.js">
-<img src="https://raw.githubusercontent.com/lightningbat/DevIcons/refs/heads/add-missing-icons/badges/badges_python.png" width="50px" title="Python">
 <img src="https://raw.githubusercontent.com/lightningbat/DevIcons/refs/heads/add-missing-icons/badges/badges_typescript.png" width="50px" title="TypeScript">
 <img src="https://raw.githubusercontent.com/lightningbat/DevIcons/refs/heads/add-missing-icons/badges/badges_javascript.png" width="50px" title="JavaScript">
+<img src="https://raw.githubusercontent.com/lightningbat/DevIcons/refs/heads/add-missing-icons/badges/badges_python.png" width="50px" title="Python">
 <img src="https://raw.githubusercontent.com/lightningbat/DevIcons/refs/heads/add-missing-icons/badges/badges_bash.png" width="50px" title="Bash">
 </p>
 
