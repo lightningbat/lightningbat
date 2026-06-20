@@ -90,4 +90,4 @@ TypeScript · Node.js · Redis
 ---
 
 ### Connect 
-[LinkedIn](https://www.linkedin.com/in/e-r-raj) • [Email](mailto:raj@krynix.xyz)
+[LinkedIn](https://www.linkedin.com/in/r-raj--/) • [Email](mailto:raj@krynix.xyz)
